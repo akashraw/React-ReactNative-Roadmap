@@ -5,18 +5,18 @@ This React/React-Native roadmap guides you through learning how to build web app
 
  ### Table of Contents
 
- 1. [General Development Skills](#generaldevelopment)
- 2. [Javascript and TypeScript (ES6)](#jsts) 
+ 1. [General Development Skills](#general-development-skills)
+ 2. [Javascript and TypeScript](#javascript-and-typescript) (ES6)
  3. [React](#react)
  4. [React Native](#react-native)
- 5. [Mobile Native Components](#mobile-native)  (To be added) 
+ 5. [Mobile Native Components](#mobile-native-components)  (To be added) 
 
 ## General Development Skills
  1. Learn GIT, create a few repositories on GitHub, share your code with other people
  2. Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
  3. Learn basic terminal and shell commands
 
-## Javascript and TypeScript (ES6)
+## Javascript and Typescript
  1. Hoisting
  2. Higher order functions
  3. Variable scope - Lexical Scoping
@@ -29,20 +29,20 @@ This React/React-Native roadmap guides you through learning how to build web app
  10. Prototyping
  11. IIFE
  12. Authentication Strategies
-    1 - Basic Authentication 
-    2 - Session Based Authentication
-    3 - Token Based Authentication
-    4 - JWT Authentication
-    5 - OAuth
-    6 - SSO
+     1. Basic Authentication 
+     2. Session Based Authentication
+     3. Token Based Authentication
+     4. JWT Authentication
+     5. OAuth
+     6. SSO
  13. Typescript
-    1 - TypeScript Types 
-    2 - Type Inference
-    3 - Type Compatibility 
-    4 - Primitive Types 
-    5 - Object Types
-    6 - Other Types
-    7 - TypeScript Functions
+     1. TypeScript Types 
+     2. Type Inference
+     3. Type Compatibility 
+     4. Primitive Types 
+     5. Object Types
+     6. Other Types
+     7. TypeScript Functions
 
 ## React 
 1. React - Basics
